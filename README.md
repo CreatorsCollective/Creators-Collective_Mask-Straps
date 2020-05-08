@@ -22,8 +22,6 @@ Dann wird die Maske angezogen und das zweite Gummiband einfach in eine der Haken
 
 <img src="https://github.com/paulweberCC/Creators-Collective_Mask-Straps/blob/master/Fotos/20200508_095401.jpg?raw=true" width=640px>
 
-<img src="https://github.com/paulweberCC/Creators-Collective_Mask-Straps/blob/master/Fotos/20200508_095308.jpg?raw=true" width=640px>
-
 
 ## Die Dateien
 Alle Dateien beinhalten den **gleichen Bügel in unterschiedlichen Wandstärken**. Bei uns in allen Tests war die Wandstärke 0,8 mm optimal. Dabei ist der Bügel ausreichend stabil und trotzdem optimal weich und flexibel, um einen hohen Tragekomfort zu bieten. Die zusätzlichen Wandstärken sind trotzdem zu finden, da unterschiedliche Drucker unterschiedliche Druckergebnisse liefern. Der Bügel ist so konzipiert, dass er optimalerweise **mit nur einer geschlossenen Aussenkontur** (komplette Umrundung ohne Unterbrechung) gedruckt werden kann. Der Bügel kann demnach auch im Vasenmodus gedruckt werden.
