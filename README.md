@@ -35,7 +35,7 @@ Wie bereits oben erwähnt, ist der Bügel so entwickelt, dass er mit eine komple
 
 ### Zusammenfassende Druckparameter:
 - "Dünne Wand"-Modus deaktivieren
-- Schichthöhe: egal (0,3mm getestet)
+- Schichthöhe: 0,3mm
 - Infill: 0%
 - Stapeln funktioniert nicht ohne weiteres
 - Material: PETG (PLA möglich)
