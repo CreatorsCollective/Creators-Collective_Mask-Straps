@@ -10,11 +10,9 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'D:\\Dropbox (Creators Collective)\\_CREATORS COLLECTIVE\\CC_Projekte\\
-_Interne Projekte\\200325_Corona-Support\\Schutzmasken\\Mask Straps\\C
-C_Mask-Strap\\CC_Mask-Strap.stp',
+'CC_Mask-Strap08.stp',
 /* time_stamp */ '2020-05-08T11:06:04+02:00',
-/* author */ ('paulw'),
+/* author */ ('creatorscollective'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18',
 /* originating_system */ 'Autodesk Inventor 2020',
