@@ -24,7 +24,11 @@ Dann wird die Maske angezogen und das zweite Gummiband einfach in eine der Haken
 
 
 ## Die Dateien
-Alle Dateien beinhalten den **gleichen Bügel in unterschiedlichen Wandstärken**. Bei uns in allen Tests war die Wandstärke 0,8 mm optimal. Dabei ist der Bügel ausreichend stabil und trotzdem optimal weich und flexibel, um einen hohen Tragekomfort zu bieten. Die zusätzlichen Wandstärken sind trotzdem zu finden, da unterschiedliche Drucker unterschiedliche Druckergebnisse liefern. Der Bügel ist so konzipiert, dass er optimalerweise **mit nur einer geschlossenen Aussenkontur** (komplette Umrundung ohne Unterbrechung) gedruckt werden kann. Der Bügel kann demnach auch im Vasenmodus gedruckt werden.
+Alle Dateien beinhalten den **gleichen Bügel in unterschiedlichen Wandstärken und zwei Längen**. Bei uns in allen Tests war die Wandstärke 0,8 mm optimal. Dabei ist der Bügel ausreichend stabil und trotzdem optimal weich und flexibel, um einen hohen Tragekomfort zu bieten.
+
+Andere Wandstärken sind vor allem dann sinnvoll, wenn andere Düsendurchmesser oder andere Konturbreiten verwendet werden als 0,4mm. Der Bügel ist so konzipiert, dass er optimalerweise **mit nur einer geschlossenen Aussenkontur** (komplette Umrundung ohne Unterbrechung) gedruckt werden kann. Der Bügel kann demnach auch im Vasenmodus gedruckt werden.
+
+Die XL-Variante ist deutlich länger und kann nach Belieben mit einer handelsüblichen Schere abgeschnitten werden. So können auch andere Längen erzielt werden.
 
 ## Druckparameter
 Wie bereits oben erwähnt, ist der Bügel so entwickelt, dass er mit eine komplett umlaufenden, geschlossenen Aussenkontur ohne Infill gedruckt werden kann. Wichtig ist beim Slicer den "Dünne Wand"-Modus zu deaktivieren, da sonst versucht wird den Bügel mit nur einer (offenen, nicht umlaufenden) Kontur zu drucken. Das Slicing-Ergebnis sollte ungefähr so aussehen:
