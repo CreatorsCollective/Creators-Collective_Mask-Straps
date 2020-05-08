@@ -1,9 +1,9 @@
 # CREATORS COLLECTIVE - Mask-Strap / Masken-Bügel
 Der von **CREATORS** COLLECTIVE entwickelte Bügel entlastet die Ohren beim Tragen von Atemschutzmasken. Das Design ist dabei extra minimalistisch, um ein schnelles Drucken zu ermöglichen und trotzdem ein angenehmes Tragen zu gewährleisten.
 
-<img src="https://github.com/paulweberCC/Creators-Collective_Mask-Straps/blob/master/Fotos/CC-Mask%20Strap.jpg?raw=true" width=640px>
+<img src="https://github.com/paulweberCC/Creators-Collective_Mask-Straps/blob/master/Fotos/CC-Mask%20Strap.jpg?raw=true" width=400px>
 
-<img src="https://github.com/paulweberCC/Creators-Collective_Mask-Straps/blob/master/Fotos/20200508_095320.jpg?raw=true" width=640px>
+<img src="https://github.com/paulweberCC/Creators-Collective_Mask-Straps/blob/master/Fotos/20200508_095320.jpg?raw=true" width=400px>
 
 
 Ziel war es möglichst schnell und mit möglichst wenig Materialeinsatz die Funktion zu gewährleisten. Der Bügel ist in vielen Varianten getestet und wir haben uns schließlich für das Design entschieden. Es können beispielsweise auf einem Prusa MK3S mindestens 40 Stück gleichzeitig und in kürzester Zeit gedruckt werden.
@@ -31,7 +31,7 @@ Alle Dateien beinhalten den **gleichen Bügel in unterschiedlichen Wandstärken*
 ## Druckparameter
 Wie bereits oben erwähnt, ist der Bügel so entwickelt, dass er mit eine komplett umlaufenden, geschlossenen Aussenkontur ohne Infill gedruckt werden kann. Wichtig ist beim Slicer den "Dünne Wand"-Modus zu deaktivieren, da sonst versucht wird den Bügel mit nur einer (offenen, nicht umlaufenden) Kontur zu drucken. Das Slicing-Ergebnis sollte ungefähr so aussehen:
 
-<img src="https://github.com/paulweberCC/Creators-Collective_Mask-Straps/blob/master/Fotos/Slicing.png?raw=true" width=640px>
+<img src="https://github.com/paulweberCC/Creators-Collective_Mask-Straps/blob/master/Fotos/Slicing.png?raw=true" height=640px>
 
 ### Zusammenfassende Druckparameter:
 - "Dünne Wand"-Modus deaktivieren
